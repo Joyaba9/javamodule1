@@ -22,7 +22,7 @@ public class Mod1assign {
         
         System.out.println("first digit: "+myNumber/10000);
         System.out.println("second digit: "+myNumber/1000%10);
-        System.out.println("third digi my: "+myNumber/100%10);
+        System.out.println("third digit: "+myNumber/100%10);
         System.out.println("fourth digit: "+myNumber/10%10);
          System.out.println("fifth digit: "+myNumber%10);
          
