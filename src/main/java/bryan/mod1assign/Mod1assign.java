@@ -32,9 +32,6 @@ public class Mod1assign {
          int num4 = myNumber/10%10;
          int num5 = myNumber%10;
          
-          System.out.println(num1+"   "+num2+"   "+num3+"   "+num4+"   "+num5);
-         
-       
-         
+          System.out.println(num1+"   "+num2+"   "+num3+"   "+num4+"   "+num5);    
  }
 }
